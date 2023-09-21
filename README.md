@@ -59,6 +59,7 @@ the Air Force Office of Scientific Research (AFOSR) through the Air Force Resear
   </figure>
 </div>
 
+
 ## Animated Figures
 
 ![](https://github.com/Vince-C156/STELLAR-ALPHA/blob/main/animated_trajectories/trajectories.gif)
@@ -70,11 +71,7 @@ Archetecture : x86_64
 
 ## INSTALLATION INSTRUCTIONS
 
-Once fully setup the github repo should just be a simple pip install for any python above Python3.8
-
-[python3 -m pip install git+git@github.com:Vince-C156/PLANNING-AUTONOMOUS-SPACECRAFT-RENDEZVOUS-AND-DOCKING-TRAJECTORIES-VIA-REINFORCEMENT-LEARNING.git]
-
-## Usage guide
+Simply clone the github and run the provided scripts. The scripts in benchmark are for recording metrics and visualization and training for transfer learning or new model training.
 
 
 
