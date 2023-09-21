@@ -78,7 +78,7 @@ the Air Force Office of Scientific Research (AFOSR) through the Air Force Resear
 }
 
 ## Final results published
-<div style="display: flex; justify-content: space-between;">
+<div id="content">
   <figure style="text-align: center; width: 20%;">
     <img src="https://raw.githubusercontent.com/Vince-C156/PLANNING-AUTONOMOUS-SPACECRAFT-RENDEZVOUS-AND-DOCKING-TRAJECTORIES-VIA-REINFORCEMENT-LEARNING/1e744758088842f3eeb2445dbdfc8c2a8fb2c7a3/misc/view1newlos.svg" alt="Image 1" style="width: 20%;">
     <figcaption>100 Simulated Missions</figcaption>
