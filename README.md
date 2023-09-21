@@ -62,28 +62,28 @@ the Air Force Office of Scientific Research (AFOSR) through the Air Force Resear
 #content figcaption {
   border: 1px solid blue;
   font-family: Verdana, Geneva, sans-serif;
-  font-size: 12px;
+  font-size: 5px;
   text-shadow: none;
   color: black;
   text-align: center;
   height: auto;
   word-wrap: break-word;
-  width:300px;
+  width:80px;
 }
 
 ## Final results published
 <div style="display: flex; justify-content: space-between;">
   <figure style="text-align: center; width: 20%;">
     <img src="https://raw.githubusercontent.com/Vince-C156/PLANNING-AUTONOMOUS-SPACECRAFT-RENDEZVOUS-AND-DOCKING-TRAJECTORIES-VIA-REINFORCEMENT-LEARNING/1e744758088842f3eeb2445dbdfc8c2a8fb2c7a3/misc/view1newlos.svg" alt="Image 1" style="width: 20%;">
-    <figcaption style="font-size: 5px; border: 1px solid blue; height: auto; word-wrap: break-word; width:100px">100 Simulated Missions</figcaption>
+    <figcaption>100 Simulated Missions</figcaption>
   </figure>
   <figure style="text-align: center; width: 20%;">
     <img src="https://raw.githubusercontent.com/Vince-C156/PLANNING-AUTONOMOUS-SPACECRAFT-RENDEZVOUS-AND-DOCKING-TRAJECTORIES-VIA-REINFORCEMENT-LEARNING/323d2620649c80c0c6f77b5b48dc91ae0750c7d6/misc/run15shortzoom%20(1).svg" alt="Image 2" style="width: 20%;">
-    <figcaption style="font-size: 5px; border: 1px solid blue; height: auto; word-wrap: break-word; width:100px;">1 Simulated Mission</figcaption>
+    <figcaption>1 Simulated Mission</figcaption>
   </figure>
   <figure style="text-align: center; width: 20%;">
     <img src="https://raw.githubusercontent.com/Vince-C156/PLANNING-AUTONOMOUS-SPACECRAFT-RENDEZVOUS-AND-DOCKING-TRAJECTORIES-VIA-REINFORCEMENT-LEARNING/4dcce89938472fa7a986b863b52275e5e6001590/misc/view1oldlos.svg" alt="Image 3" style="width: 20%;">
-    <figcaption style="font-size: 5px; border: 1px solid blue;  height: auto; word-wrap: break-word; width:100px;">100 Simulated Missions Conventional</figcaption>
+    <figcaption>100 Simulated Missions Conventional</figcaption>
   </figure>
 </div>
 
