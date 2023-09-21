@@ -59,6 +59,10 @@ the Air Force Office of Scientific Research (AFOSR) through the Air Force Resear
   </figure>
 </div>
 
+## Animated Figures
+
+![](https://github.com/Vince-C156/STELLAR-ALPHA/blob/main/animated_trajectories/trajectories.gif)
+
 ## CORE ENVIRONMENT DURING TIME OF RELEASE (6/10/23)
 Python3.10 Ubuntu20.04 Cuda-12.0 Vulkan-1.2 at the time of development.
 
