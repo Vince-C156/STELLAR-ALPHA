@@ -43,6 +43,34 @@ This work was supported by UCI’s Undergraduate Research Opportunities Program 
 the Air Force Office of Scientific Research (AFOSR) through the Air Force Research Laboratory
 16
 
+#content figure {
+  display: inline-block;
+  border: 1px solid #333333;
+  height: 200px;
+  margin: 10px;
+}
+#content img {
+  height: 180px;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  border: 1px solid red;
+  margin: 0px;
+  margin-bottom: -5px;
+}
+
+#content figcaption {
+  border: 1px solid blue;
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 12px;
+  text-shadow: none;
+  color: black;
+  text-align: center;
+  height: auto;
+  word-wrap: break-word;
+  width:300px;
+}
+
 ## Final results published
 <div style="display: flex; justify-content: space-between;">
   <figure style="text-align: center; width: 20%;">
